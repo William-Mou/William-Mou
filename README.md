@@ -37,7 +37,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.mou.tw"><img src="https://img.shields.io/badge/-Mou.tw-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.mou.tw"><img src="https://img.shields.io/badge/-mou.tw-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%E5%B1%95%E4%BD%91-%E7%89%9F-357a69152/"><img src="https://img.shields.io/badge/-William%20Mou-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:contact@mou.tw"><img src="https://img.shields.io/badge/-contact@mou.tw-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mou_ssinrc"><img src="https://img.shields.io/badge/-@mou_ssinrc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
