@@ -6,11 +6,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- [SiFive](https://www.sifive.com/) Intern
-- [NTHU SCC(Student Cluster Competition)](https://nthu-en.site.nthu.edu.tw/p/406-1003-241079,r8773.php) SC22 Team Leader
-- [SITCON 2021 (Students' Information Technology Conference)](https://sitcon.org/) Vice Coordinator
-- [APNIC(Asia-Pacific Network Information Centre)](https://conference.apnic.net/52/fellowship/fellows/) Fellows
-- [Sprout Python Class](https://sprout.tw/spt/) PM, Hsinchu
+- [SiFive](https://www.sifive.com/) – Software Performance and Analysis Intern  
+- [National Tsing Hua University – LSALAB](https://lsalab.cs.nthu.edu.tw/) – Master's Student  
+- [NTHU SCC (Student Cluster Competition)](https://nthu-en.site.nthu.edu.tw/p/406-1003-241079,r8773.php) – SC22 Champion & Team Leader  
+- [Sprout Python Class](https://sprout.tw/spt/) – Program Manager, Hsinchu  
+- [SITCON 2021 (Students' Information Technology Conference)](https://sitcon.org/) – Vice Coordinator  
+- [APNIC (Asia-Pacific Network Information Centre)](https://conference.apnic.net/52/fellowship/fellows/) – Fellow  
+
+
 
 
 ### 🛠 &nbsp;Tech Stack
